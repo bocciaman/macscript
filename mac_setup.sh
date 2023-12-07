@@ -28,6 +28,10 @@ apps=(
     keyboard-maestro
     hazel
     iterm2
+    slack
+    whatsapp
+    btop
+    simplenote
 )
 
 echo "Installing applications..."
